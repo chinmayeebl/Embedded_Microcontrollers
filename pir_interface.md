@@ -1,1 +1,21 @@
+# PIR Sensor Interfacing with LPC1768 Microcontroller
 
+Welcome to the PIR Sensor Interfacing repository! The `pir_interface.zip` file contains code for interfacing a PIR (Passive Infrared) sensor with a Cortex M3 based LPC1768 microcontroller.
+
+## Overview
+
+In this project, we utilize the LPC1768 microcontroller to implement a system that involves tasks such as PIR sensor input handling, LCD display, DC motor control, and UART communication. Tasks run concurrently and independently, requiring synchronization to ensure cohesive and conflict-free operation.
+
+## RTX Objects and Mailbox Utilization
+
+- Utilization of "RTX Objects" and "Mailbox" for managing tasks and communicating status data across events.
+- Tasks include PIR sensor input, LCD display, DC motor control, and UART communication.
+- Synchronization ensures coherent execution of tasks, avoiding discrepancies in data display.
+
+<p align="center">
+  <img src="pir_interface_fbd.png" alt="Image 1" width="300"/>
+</p>
+
+## Getting Started
+
+Refer to the `pir_interface.zip` file for the complete code and project setup. Follow the algorithm steps for a successful implementation.
