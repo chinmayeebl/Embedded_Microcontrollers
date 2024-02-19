@@ -13,7 +13,7 @@ In this project, we utilize the LPC1768 microcontroller to implement a system th
 - Synchronization ensures coherent execution of tasks, avoiding discrepancies in data display.
 
 <p align="center">
-  <img src="pir_interface_fbd.png" alt="Image 1" width="300"/>
+  <img src="pir_project_fdb.png" alt="Image 1"/>
 </p>
 
 ## Getting Started
