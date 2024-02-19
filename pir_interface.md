@@ -18,4 +18,4 @@ In this project, we utilize the LPC1768 microcontroller to implement a system th
 
 ## Getting Started
 
-Refer to the `pir_interface.zip` file for the complete code and project setup. Follow the algorithm steps for a successful implementation.
+Refer to the `pir_interface.zip` file for the complete code and project setup. 
