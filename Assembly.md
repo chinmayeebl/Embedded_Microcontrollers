@@ -1,5 +1,9 @@
 # Intel 8051 Assembly Codes Repository
 
+<p align="center">
+  <img src="intel_logo.jpg" alt="Image 1"/>
+</p>
+
 Welcome to the Intel 8051 Assembly Codes repository! This collection contains a variety of assembly level codes for Intel's 8051 microcontroller, all neatly organized in the `8051.txt` file.
 
 ## Code List
