@@ -31,3 +31,5 @@ Welcome to the Intel 8051 Assembly Codes repository! This collection contains a 
 ## Instructions
 
 To use any of the codes, simply navigate to the `8051.txt` file and find the corresponding code snippet.
+
+For further understanding of assembly codes refer [this](https://gmostofabd.github.io/8051-Assembly-Programming/#:~:text=Assembly%20Language%20is%20a%20pseudo,the%20architecture%20of%20the%20Microcontroller)
